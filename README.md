@@ -5,7 +5,7 @@ Salve salve! 👋
 
 Meu nome é **Lucas Oliveira Duarte** e sou um **Profissional de Produto** que acredita no poder da tecnologia para criar soluções inovadoras. Minha paixão é construir a ponte entre a visão de negócio e a execução técnica.
 
-Para fortalecer essa conexão, aprofundo meus conhecimentos em desenvolvimento web com foco em **Next, Node.js e Python**, o que me permite colaborar de forma mais eficaz e empática com as equipes de engenharia.
+Para fortalecer essa conexão, aprofundo meus conhecimentos em desenvolvimento web, o que me permite colaborar de forma mais eficaz e empática com as equipes de engenharia.
 
 **No que estou trabalhando agora:**
 
@@ -16,7 +16,7 @@ Para fortalecer essa conexão, aprofundo meus conhecimentos em desenvolvimento w
 ---
 
 <p align="left">
-  💼<strong> Desenvolvimento:</strong> JavaScript, TypeScript, React, Next, Node.js, Python, HTML5, CSS3, PostgreSQL, Git.
+  💼<strong> Desenvolvimento:</strong> HTML5, CSS3, JavaScript, React, Next.js, Python, PostgreSQL, Git.
 </p>
 
 <p align="left">
