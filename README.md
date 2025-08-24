@@ -16,7 +16,7 @@ Para fortalecer essa conexão, aprofundo meus conhecimentos em desenvolvimento w
 ---
 
 <p align="left">
-  💼<strong> Desenvolvimento:</strong> HTML5, CSS3, JavaScript, React, Next.js, Python, PostgreSQL, Git.
+  💼<strong> Desenvolvimento:</strong> HTML5, CSS, Bootstrap, Tailwind, JavaScript, React, Next.js, Python, PostgreSQL, Git.
 </p>
 
 <p align="left">
