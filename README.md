@@ -27,10 +27,7 @@ Para fortalecer essa conexão, aprofundo meus conhecimentos em desenvolvimento w
 </p>
 
 <p align="left">
-  <a href="mailto:lucasoduarte71@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
-
-  <a href="https://www.linkedin.com/in/lucasoliveiraduarte" title="LinkedIn" target="blank">
+   <a href="https://www.linkedin.com/in/lucasoliveiraduarte" title="LinkedIn" target="blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 
   <a href="https://x.com/eokinhaa" title="X">
