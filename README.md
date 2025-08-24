@@ -33,9 +33,6 @@ Para fortalecer essa conexão, aprofundo meus conhecimentos em desenvolvimento w
   <a href="https://www.linkedin.com/in/lucasoliveiraduarte" title="LinkedIn" target="blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-  <a href="https://wa.me/+5571996961396" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-
-  <a href="https://www.instagram.com/eokinha" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://x.com/eokinhaa" title="X">
+  <img src="https://img.shields.io/twitter/follow/eokinhaa" alt="X"/></a>
 </p>
