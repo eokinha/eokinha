@@ -1,16 +1,41 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**eokinha/eokinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  Olá, pode me chamar de Kinha! 👋
 
-Here are some ideas to get you started:
+Meu nome é **Lucas Oliveira Duarte** e sou um **Profissional de Produto** que acredita no poder da tecnologia para criar soluções inovadoras. Minha paixão é construir a ponte entre a visão de negócio e a execução técnica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Para fortalecer essa conexão, aprofundo meus conhecimentos em desenvolvimento web com foco em **React, Node.js e Python**, o que me permite colaborar de forma mais eficaz e empática com as equipes de engenharia.
+
+**No que estou trabalhando agora:**
+
+* 👨‍💻 Como **Product Owner** na [**NVGO**](https://www.linkedin.com/company/nvgo-io/)
+* 🎓 Cursando **Sistemas de Informação** na [**Unijorge**](https://www.unijorge.edu.br/)
+* 🚀 Desenvolvendo projetos pessoais para fortalecer minhas skills em desenvolvimento e gestão de produtos.
+
+---
+
+<p align="left">
+  💼<strong> Desenvolvimento:</strong> JavaScript, TypeScript, React, Node.js, Python, HTML5, CSS3, PostgreSQL, Git.
+</p>
+
+<p align="left">
+  🦄<strong> Produto & Gestão:</strong> Figma, Miro, Jira, Trello, Scrum, Kanban
+
+<p align="left">
+  💌 Você pode me encontrar aqui: ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:lucasoduarte71@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
+  <a href="https://www.linkedin.com/in/lucasoliveiraduarte" title="LinkedIn" target="blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+  <a href="https://wa.me/+5571996961396" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+
+  <a href="https://www.instagram.com/eokinha" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
