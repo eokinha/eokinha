@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Olá, pode me chamar de Kinha! 👋
+Salve salve! 👋
 
 Meu nome é **Lucas Oliveira Duarte** e sou um **Profissional de Produto** que acredita no poder da tecnologia para criar soluções inovadoras. Minha paixão é construir a ponte entre a visão de negócio e a execução técnica.
 
