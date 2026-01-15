@@ -5,7 +5,7 @@ Salve salve! 👋
 
 Meu nome é **Lucas Duarte** e sou um **Profissional de Produto** que acredita no poder da tecnologia para criar soluções inovadoras. Minha paixão é construir a ponte entre a visão de negócio e a execução técnica.
 
-Para fortalecer essa conexão, aprofundo meus conhecimentos em desenvolvimento web, o que me permite colaborar de forma mais eficaz e empática com as equipes de engenharia.
+Para fortalecer essa conexão, aprofundo meus conhecimentos em desenvolvimento web, o que me permite colaborar de forma mais eficaz com as equipes de engenharia.
 
 **No que estou trabalhando agora:**
 
