@@ -15,7 +15,7 @@ Para fortalecer essa conexão, aprofundo meus conhecimentos em gestão de projet
 ---
 
 <p align="left">
-  💼<strong> Desenvolvimento:</strong> HTML5, CSS, Bootstrap, Tailwind, JavaScript, React, Next.js, Python, PostgreSQL, Git.
+  💼<strong> Hard Skills:</strong> HTML5, CSS, Bootstrap, Tailwind, JavaScript, React, Next.js, Python, PostgreSQL, Git.
 </p>
 
 <p align="left">
@@ -29,6 +29,4 @@ Para fortalecer essa conexão, aprofundo meus conhecimentos em gestão de projet
    <a href="https://www.linkedin.com/in/lucasoliveiraduarte" title="LinkedIn" target="blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-  <a href="https://x.com/eokinhaa" title="X">
-  <img src="https://img.shields.io/twitter/follow/eokinhaa" alt="X"/></a>
 </p>
