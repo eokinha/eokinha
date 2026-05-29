@@ -3,7 +3,8 @@
 <p align="left">
 Salve salve! 👋
 
-Meu nome é **Lucas** e sou um **Profissional de Produto** que acredita no poder da tecnologia para criar soluções inovadoras. 
+Me chamo **Lucas**, sou um **Profissional de Produto** que acredita no poder da tecnologia para criar soluções inovadoras. 
+
 Para fortalecer essa conexão, aprofundo meus conhecimentos em gestão de projetos e desenvolvimento web, o que me permite colaborar de forma mais eficaz na  construção da ponte entre a visão de negócio e a execução técnica.
 
 **No que estou trabalhando agora:**
@@ -15,11 +16,8 @@ Para fortalecer essa conexão, aprofundo meus conhecimentos em gestão de projet
 ---
 
 <p align="left">
-  💼<strong> Hard Skills:</strong> HTML5, CSS, Bootstrap, Tailwind, JavaScript, React, Next.js, Python, PostgreSQL, Git.
+  💼<strong> Hard Skills:</strong> HTML5, CSS, JavaScript, Bootstrap, Tailwind, React, Next.js, Python, PostgreSQL, MySQL Git.
 </p>
-
-<p align="left">
-  🦄<strong> Produto & Gestão:</strong> Figma, Miro, Jira, Trello, Scrum, Kanban
 
 <p align="left">
   💌 Você pode me encontrar aqui: ⤵️
